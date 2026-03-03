@@ -1,20 +1,13 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 不着急日历 (Don't Hurry Calendar) 📅
 
-# Run and deploy your AI Studio app
+专为科研人员/多项目并行者设计的桌面级进度管理工具。
 
-This contains everything you need to run your app locally.
+### ✨ 功能特点
+- **繁忙热力图**：一眼看穿哪天最忙。
+- **项目甘特图**：多线并行，进度透明。
+- **本地存储**：数据不出本地，安全隐私。
+- **PWA 支持**：可一键安装为桌面应用。
 
-View your app in AI Studio: https://ai.studio/apps/603e7739-3e89-434e-847b-6ace9f7f29d7
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+### 🚀 快速开始
+1. `npm install`
+2. `npm run dev`
